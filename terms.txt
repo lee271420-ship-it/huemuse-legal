@@ -1,0 +1,77 @@
+HueMuse User Agreement
+Effective October 3, 2026 · Version 1.0
+Operator: junxiuli
+Contact: matt1232026@gmail.com
+
+1. About this agreement
+This User Agreement governs your use of HueMuse, a personal color and clothing guidance application operated by junxiuli ("we", "us", or "our"). You can contact us at matt1232026@gmail.com for support, complaints, subscription questions, or legal notices. "You" means the person using the application. The Privacy Policy explains how information is handled and is available separately from this agreement.
+By choosing "Agree and continue", you accept this agreement. A purchase requires a separate confirmation through the App Store. Accepting this agreement does not give consent to optional usage analytics, advertising, or any unrelated processing. If you do not accept these terms, do not continue using the application.
+
+2. Eligibility and personal use
+HueMuse is intended for users aged 16 or older. If you are below the age of legal majority where you live, a parent or guardian must authorize your use and any purchase when required by law. The application is not directed to children under 13. Do not provide another person's photographs without appropriate permission.
+No HueMuse account registration is required. You are responsible for access to your device and Apple Account, and for using parental purchase controls where appropriate. Availability, supported devices, languages, and features may vary by region and application version.
+
+3. What HueMuse provides
+HueMuse offers personal color profiles, color palettes, clothing color checks, saved results, and related styling tools. Certain features are available without payment; other features or usage allowances require an active subscription. The current application and purchase screen describe the applicable access limits. A demonstration or example palette does not represent an analysis of your own photo.
+Analysis runs on your device. Results depend on lighting, camera settings, filters, makeup, display calibration, photo quality, and the area selected for analysis. A manually selected season reflects your selection. Recommendations are styling references, not medical advice, biometric identity verification, professional diagnosis, or a promise that an item will look a particular way. Check an item in suitable lighting before making a purchase.
+
+4. License to use the application
+Subject to this agreement, we grant you a limited, non-exclusive, non-transferable license to install and use HueMuse for your personal, non-commercial purposes on Apple devices that you own or control, subject to the App Store usage rules. Any applicable Family Sharing rights remain governed by the store and the product's availability.
+We retain rights in the application software, interface, original illustrations, written content, and branding, except for content owned by you or third parties. You may keep and use your personal results for your own styling purposes. This license does not transfer ownership of the application or permit resale of its software or materials.
+
+5. Your photos and content
+You retain ownership of photographs and other content you provide. You give HueMuse only the permission needed to process that content on your device, display your results, and save or export information when you request it. This agreement does not grant us a right to sell your photos, use your likeness in marketing, or upload your photos for model training.
+Only use photos that you are entitled to use. You can remove the application's saved copies through its data controls. Removing those copies does not remove the original images from your system photo library or copies you have exported, shared, or backed up elsewhere.
+
+6. Acceptable use
+Do not use HueMuse to violate another person's privacy or intellectual property rights, distribute unlawful material, harass others, or misrepresent its results as a verified medical or professional assessment. Do not bypass purchase checks, exploit vulnerabilities, interfere with service infrastructure, distribute modified copies, or use automated requests to overload our systems.
+Restrictions on reverse engineering apply only to the extent permitted by law. They do not remove rights you have under applicable interoperability, research, or other mandatory legal exceptions. If you discover a security issue, contact us with enough information to investigate it without disclosing other users' information.
+
+7. Subscriptions, prices, and billing
+Subscriptions are purchased through Apple's App Store and managed with RevenueCat. Before you confirm a purchase, the purchase screen and Apple confirmation show the product, billing period, price, currency, applicable taxes, and renewal conditions. Those confirmed transaction details govern the purchase. We do not receive your full payment card number.
+Payment is charged to your Apple Account after confirmation. An automatically renewing subscription renews unless you cancel according to the store's displayed deadline, normally at least 24 hours before the current period ends. The renewal charge may be processed during the 24 hours before the period ends. Changes to prices or purchase conditions are subject to Apple's notice and consent process and applicable law. No fixed price or free trial is promised by this agreement.
+
+8. Trials and promotional offers
+A trial or introductory offer applies only when explicitly shown for your eligible Apple Account before purchase. If an offer converts to a paid subscription, the confirmation must show when payment begins and the recurring price. Cancel before the stated deadline if you do not want the paid subscription to begin. Offer eligibility, duration, and availability are governed by the displayed purchase conditions.
+Do not assume that deleting the application or choosing not to use a feature cancels an offer or subscription. Check your Apple subscription settings to confirm the cancellation status.
+
+9. Managing, canceling, and restoring purchases
+Manage or cancel a subscription in your device Settings under your Apple Account's Subscriptions, or use the application's subscription management action where available. Cancellation ordinarily stops the next renewal while access continues through the period already paid for, unless the store or applicable law provides otherwise. Deleting local data, reinstalling the application, or removing photos does not cancel billing.
+Use Restore purchases with the Apple Account used for the original purchase if an entitlement is missing after reinstalling or changing devices. Restoration depends on a valid store purchase and product eligibility; it does not recreate photographs or results removed from local storage. Contact us if access remains unavailable after restoration.
+
+10. Refunds and mandatory consumer rights
+Apple handles App Store payment processing and its refund request process. You may request a refund through reportaproblem.apple.com. Contact us for assistance with missing access, a defective feature, or a complaint. The store's administrative process does not eliminate any claim or remedy you have against us under mandatory consumer law.
+If you are a consumer in the European Economic Area or United Kingdom, applicable distance-contract rules may give you a 14-day withdrawal period and rights to remedies for digital content or services that do not conform to the contract. Any loss of a withdrawal right for immediate digital supply requires the conditions imposed by the relevant law, including any required express consent and acknowledgment. Merely accepting this agreement does not waive your withdrawal right.
+To exercise an applicable withdrawal right, email us an unambiguous statement identifying the purchase, purchase date, and your request to withdraw. You may use: "I withdraw from my contract for [product], purchased on [date]. My name and contact email are [details]." No special wording is required. We will explain the appropriate store process and coordinate any remedy required of us. Statutory repair, conformity, price-reduction, refund, and other non-waivable rights remain available.
+
+11. Privacy and optional analytics
+Read the Privacy Policy before using HueMuse. Camera and photo access are controlled by iOS permissions. Optional usage sharing is controlled separately and is disabled by default. Essential subscription checks may operate independently of optional analytics to deliver or restore paid access.
+Consent to this agreement is not a blanket permission to collect data. You may withdraw optional analytics consent in the privacy controls without losing the right to use purchased features. The Privacy Policy describes local deletion, server activity deletion, and information retained for subscription administration or security.
+
+12. Device storage, exports, and connectivity
+Personal profiles, photos saved by HueMuse, palettes, and scan history are stored locally. Device loss, uninstalling the application, storage failures, or deletion may remove these items. Your operating system or backup settings may preserve copies separately. Keep any exports or backups you want to retain using available system tools.
+Some features, purchase checks, restoration, or optional usage reporting require an internet connection. You are responsible for your device's connectivity and ordinary carrier charges. We do not guarantee uninterrupted access where connectivity, the App Store, or another service provider is unavailable.
+
+13. Changes, maintenance, and discontinuation
+We may update HueMuse to fix errors, improve security, or change features. Where applicable consumer law requires updates or continued conformity, those obligations remain in effect. A change that materially affects a paid service will be handled with the notice, valid reason, cancellation rights, and remedies required by applicable law.
+If we discontinue a paid feature or the service, we will provide reasonable notice where practicable and any remedy required for an unused paid period. We will not use a general service-change clause to avoid an obligation already owed to you. You may stop using the application at any time; remember to cancel an active subscription separately.
+
+14. Suspension for misuse
+We may restrict service access where reasonably necessary to address serious abuse, a security incident, a legal requirement, or a material breach of this agreement. Restrictions will be proportionate to the issue. Where lawful and practicable, we will explain the reason and give you an opportunity to contact us or correct a remediable breach.
+Any restriction remains subject to applicable consumer protections and does not automatically extinguish statutory refund rights. You can challenge a restriction by contacting the support email above.
+
+15. Warranties and responsibility
+We aim to provide HueMuse with reasonable care and skill. Apart from express commitments and mandatory legal warranties, we do not promise that every styling recommendation will suit your preferences or that every photograph will produce a usable result. We are not responsible for a retailer's products or representations merely because you use our guidance while shopping.
+To the extent permitted by applicable law, we are not liable for indirect commercial losses arising from personal use of the application or losses that could not reasonably have been foreseen. Nothing excludes or limits liability for fraud, willful misconduct, gross negligence where non-excludable, death or personal injury caused by negligence, or any liability or consumer remedy that cannot lawfully be excluded. No term imposes a blanket waiver of your statutory rights.
+
+16. Apple and other third parties
+This agreement is between you and junxiuli, not Apple. We are responsible for HueMuse and its content. Apple has no obligation to provide application maintenance or support. If the application fails to conform to an applicable warranty, you may notify Apple, and Apple may refund the purchase price under its terms; any further responsibility remains with us to the extent required by law.
+We are responsible for addressing applicable product claims, legal compliance claims, and intellectual property infringement claims concerning HueMuse. Apple and its subsidiaries are third-party beneficiaries of this application license and may enforce it as such. You must comply with applicable third-party terms and lawful export restrictions. External links and independently operated services have their own terms and privacy notices.
+
+17. Complaints and dispute resolution
+Email matt1232026@gmail.com with a description of the issue, the relevant application version, and purchase details when needed. Do not send your full card number or account password. We will acknowledge and investigate a complaint and work with you toward a reasonable resolution.
+Applicable mandatory law, including the consumer protections of your habitual residence where they apply, governs your non-waivable rights. You may bring a claim before a court that has jurisdiction under applicable law, including a court available to you as a consumer. This agreement does not impose mandatory arbitration, a class-action waiver, or an exclusive foreign forum. You may also contact the consumer authority or an available dispute-resolution body in your region.
+
+18. Updates and interpretation
+The effective date and version appear at the top of this document. We will give appropriate notice of material changes through the application or another suitable channel. Changes requiring fresh consent will not be treated as accepted merely because an older version was accepted. Revised terms do not retroactively remove rights relating to an earlier purchase.
+If a provision is unenforceable, the remaining provisions continue only to the extent lawful and consistent with the agreement's purpose. Failure to enforce a provision immediately is not a waiver. This agreement and the purchase conditions you confirmed describe the service contract, subject always to mandatory law. For questions about any provision, contact junxiuli at matt1232026@gmail.com.
